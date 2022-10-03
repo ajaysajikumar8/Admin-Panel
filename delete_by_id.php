@@ -37,6 +37,6 @@ if (mysqli_query($connection, $sql_command)){
   
 ?>
 
-<a href="index.php">Back to Homepage...</a>
+<a href="index.php">Homepage/Report</a>
 
 </body>
